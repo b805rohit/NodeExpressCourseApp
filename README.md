@@ -1,5 +1,5 @@
 # NodeExpressCourseApp
-Backend API for Course application
+Backend API for Course application using MongoDB,Express and Node
 
 Usage
 Rename "config/config.env.env" to "config/config.env" and update the values/settings to your own
