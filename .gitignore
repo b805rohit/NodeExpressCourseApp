@@ -2,7 +2,7 @@ node_modules
 /dist
 
 # local env files
-/config/*.env
+/config/config.env
 
 # Log files
 npm-debug.log*
